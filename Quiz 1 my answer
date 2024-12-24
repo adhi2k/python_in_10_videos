@@ -1,0 +1,20 @@
+1) a x=1
+2) a & d  correct  d
+3) d all  correct c 
+4) b 1
+5) b 2
+6) a int  correct c
+7) b float
+8) d double
+9) a '1.5'
+10) b float
+11) a 1050
+12) b type()
+13) done num is positive ,negative or zero 
+14) done largest three num
+15) done  specific datatype & try except function
+16) done  leap year or not 
+17) done square of num
+18) done even or odd
+19) done sorting
+20) done lower & [::-1}
